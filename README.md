@@ -18,6 +18,14 @@
  
 ![image](https://github.com/kungyanling/Printed-character-recognition-and-translation-system/blob/main/%E6%93%B7%E5%8F%968.PNG)
 
+英文圖片辨識範例
+
+![image](https://github.com/kungyanling/Printed-character-recognition-and-translation-system/blob/main/%E6%93%B7%E5%8F%967.PNG)
+
+執行範例
+
+![image](https://github.com/kungyanling/Printed-character-recognition-and-translation-system/blob/main/%E6%93%B7%E5%8F%965.PNG)
+
 錯誤圖片範例(空白的圖片，無文字)
 
 ![image](https://github.com/kungyanling/Printed-character-recognition-and-translation-system/blob/main/%E6%93%B7%E5%8F%963.PNG)
